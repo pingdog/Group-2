@@ -1,0 +1,20 @@
+#World's origin
+(0.0W, 0.0N)
+
+#My old house
+(122.129554W, 37.143653N)
+
+#Greenwich, England
+(0.0W, 51.478768N)
+
+#Eiffel Tower
+(2.2946E, 48.8582N)
+
+#Beijing
+(116.400000E, 39.930000N)
+
+#Tokyo
+(139.769000E, 35.669000N)
+
+#Sydney
+(151.207000E, 33.867000S)
